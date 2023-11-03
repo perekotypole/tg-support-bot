@@ -1,0 +1,37 @@
+{
+  "bot": {
+    "api_id": 28159064,
+    "api_hash": "***",
+    "bot_token": "5986****:****",
+    "notification_chat": 5872876197
+  },
+  "support": [
+    449828535
+  ],
+  "profiles": [
+    {
+      "api_id": 28159064,
+      "api_hash": "******",
+      "phone": "+380****",
+      "password": "1*****1"
+    }
+  ],
+  "lang_msg": "Виберіть мову/Select language",
+  "default_messages": {
+    "ua": {
+      "name": "Українська",
+      "message": "якась повідомка",
+      "buttons": {
+        "faq": "Перейти на FAQ",
+        "manager": "Зв'язатись з менеджером"
+      },
+      "faq": "питання - відповіді",
+      "faq_url": {
+        "title": "link title",
+        "url": "google.com"
+      },
+      "pre_manager": "Якщо ви не знайшли рішення, зв’яжіться з менеджером",
+      "manager": "опишіть проблему"
+    }
+  }
+}
